@@ -1,5 +1,6 @@
 #Tools and Framework used
 
 1. CSS Grid
-2. Boxicons
-3. Swiperjs
+2. Boxicons.com
+3. Swiperjs.com
+4. formspree.io

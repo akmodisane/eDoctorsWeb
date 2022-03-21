@@ -26,4 +26,11 @@
 5. Create Testimonials Section 
     5.1 Create testimonials content 
     5.2 Create partials and style the content
+    5.3 Import swiperjs 
+
+6. Create Testimonials Section 
+    6.1 Create appointment content info 
+    6.2 Create appointment form
+
+
    
