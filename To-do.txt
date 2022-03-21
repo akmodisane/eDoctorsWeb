@@ -28,9 +28,13 @@
     5.2 Create partials and style the content
     5.3 Import swiperjs 
 
-6. Create Testimonials Section 
+6. Create Appointment Section 
     6.1 Create appointment content info 
     6.2 Create appointment form
+    6.3 Link appointment form with formspree.io
+
+7. Create Footer Section
+    7.1 Create footer content
 
 
    
