@@ -22,4 +22,8 @@
 4. Create Specialists Section
     4.1 Create specialists content 
     4.2 Style specialists content
+
+5. Create Testimonials Section 
+    5.1 Create testimonials content 
+    5.2 Create partials and style the content
    
