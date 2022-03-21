@@ -17,4 +17,9 @@
 3. Create Services Section 
     3.1 Create article Content 
     3.2 Style Services content
+    3.3 Style for responsive design
+
+4. Create Specialists Section
+    4.1 Create specialists content 
+    4.2 Style specialists content
    
