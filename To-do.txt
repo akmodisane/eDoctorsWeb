@@ -1,0 +1,18 @@
+#Responsive eDoctors Website
+
+1. Setup environment 
+    1.1 Create a folder named edoctorsweb 
+    1.2 Create a index.html 
+    1.3 Create a main.js file 
+    1.4 Create a scss file and partials folder and inside partial folder - create a file called _config.scss
+    1.5 Create a _general.scss under partial folder to store all the classes
+    1.6  Create a _mixins.scss under partial folder to store mixins
+    1.7 Make sure mixins comes before the general in style.scss
+
+2. Create Header Section
+    2.1 Create Header Content  
+    2.2 Create an Image 
+    2.3 Create responsive design 
+
+3.
+   
